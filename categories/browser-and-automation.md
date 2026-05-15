@@ -1,6 +1,6 @@
 # Browser & Automation
 
-[← Back to main list](../README.md#table-of-contents)
+[鈫?Back to main list](../README.md#table-of-contents)
 
 **324 skills**
 
@@ -47,7 +47,7 @@
 - [atl-mobile](https://clawskills.sh/skills/jordancoin-atl-mobile) - Mobile browser and native app automation via ATL (iOS Simulator).
 - [audiomind](https://clawskills.sh/skills/wells1137-audiomind) - The ultimate AI audio generation skill.
 - [auto-context-manager](https://clawskills.sh/skills/imraxy-auto-context-manager) - AI-powered automatic project context management.
-- [auto-dealer-marketing](https://clawskills.sh/skills/lazralabs-eng-auto-dealer-marketing) - When the user wants to create, optimize, or plan automotive dealership marketing — including inventory.
+- [auto-dealer-marketing](https://clawskills.sh/skills/lazralabs-eng-auto-dealer-marketing) - When the user wants to create, optimize, or plan automotive dealership marketing 鈥?including inventory.
 - [auto-updater](https://clawskills.sh/skills/maximeprades-auto-updater) - Automatically update Clawdbot and all installed skills once.
 - [autofillin](https://clawskills.sh/skills/leohan123123-autofillin) - Automated web form filling and file uploading skill.
 - [automation-workflows](https://clawskills.sh/skills/jk-0001-automation-workflows) - Design and implement automation workflows to save.
@@ -62,7 +62,7 @@
 - [bookmark-intelligence](https://clawskills.sh/skills/bkrigmo1-bookmark-intelligence) - Turns X bookmarks into actionable insights.
 - [box-automation](https://clawskills.sh/skills/sohamganatra-box-automation) - Automate Box cloud storage operations including file.
 - [brain-search](https://clawskills.sh/skills/ryandeangraves-brain-search) - **You MUST actually execute every curl command using your shell/exec tool.** Read the real HTTP response.
-- [browser-ladder](https://clawskills.sh/skills/ktpriyatham-browser-ladder) - Climb the browser ladder — start free, escalate.
+- [browser-ladder](https://clawskills.sh/skills/ktpriyatham-browser-ladder) - Climb the browser ladder 鈥?start free, escalate.
 - [browser-use](https://clawskills.sh/skills/shawnpana-browser-use) - Use Browser Use cloud API to spin up cloud browsers for Clawdbot.
 - [browsh](https://clawskills.sh/skills/gumadeiras-browsh) - A modern text-based browser.
 - [brw-linkedin-authority-builder](https://clawskills.sh/skills/brianrwagner-brw-linkedin-authority-builder) - Build a LinkedIn content system for thought leadership.
@@ -74,7 +74,7 @@
 - [cdp-browser](https://clawskills.sh/skills/gostlightai-cdp-browser) - CDP browser control at localhost:9222.
 - [claude-cost-cli](https://clawskills.sh/skills/cyberash-dev-claude-cost-cli) - Query Claude API usage and cost reports from the command line.
 - [claude-usage-cli](https://clawskills.sh/skills/cyberash-dev-claude-usage-cli) - Query Claude API usage and cost reports from the command line.
-- [client-communication-engine](https://clawskills.sh/skills/satoshistackalotto-client-communication-engine) - Greek-language client correspondence — submission confirmations, summaries, document requests, reminders.
+- [client-communication-engine](https://clawskills.sh/skills/satoshistackalotto-client-communication-engine) - Greek-language client correspondence 鈥?submission confirmations, summaries, document requests, reminders.
 - [client-data-management](https://clawskills.sh/skills/satoshistackalotto-client-data-management) - Secure client database for Greek accounting firms.
 - [client-flow](https://clawskills.sh/skills/ariktulcha-client-flow) - Automated client onboarding and project lifecycle management.
 - [cls-news-scraper](https://clawskills.sh/skills/ningjingzhiyuande-cls-news-scraper) - Use this skill to pull real-time market news from Cailian Press (CLS) and extract stock-positive catalysts.
@@ -92,7 +92,7 @@
 - [db-readonly](https://clawskills.sh/skills/reed1898-db-readonly) - Run safe read-only queries against MySQL or PostgreSQL for data inspection, reporting, and troubleshooting.
 - [db-readonly](https://clawskills.sh/skills/ryanhong666-db-readonly) - Run safe read-only queries against MySQL or PostgreSQL for data inspection, reporting, and troubleshooting.
 - [desearch-x-search](https://clawskills.sh/skills/okradze-desearch-x-search)
-- [desktop-control-tuned](https://github.com/Supreshone/desktop-control-tuned) - Python-powered Windows desktop automation for AI agents — mouse, keyboard, screenshots, OpenCV image matching, window management, clipboard. - Search X (Twitter) in real time.
+- [desktop-control-tuned](https://github.com/Supreshone/desktop-control-tuned) - Python-powered Windows desktop automation for AI agents 鈥?mouse, keyboard, screenshots, OpenCV image matching, window management, clipboard. - Search X (Twitter) in real time.
 - [doro-command-creator](https://clawskills.sh/skills/a2mus-doro-command-creator) - WHAT: Create Claude Code slash commands - reusable markdown workflows invoked with /command-name.
 - [duoplus-agent](https://github.com/openclaw/skills/tree/main/skills/duoplusofficial/duoplus-agent/SKILL.md) - Control DuoPlus cloud phones via ADB.
 - [dune-analytics-api](https://clawskills.sh/skills/lz-web3-dune-analytics-api) - Dune Analytics API for blockchain data queries.
@@ -132,13 +132,13 @@
 - [hle-benchmark-evolver](https://clawskills.sh/skills/wanng-ide-hle-benchmark-evolver) - Runs HLE-oriented benchmark reward ingestion and curriculum generation for capability-evolver.
 - [huggingface-trends](https://clawskills.sh/skills/tianxingleo-huggingface-trends) - Monitor and fetch trending models from Hugging Face with support for filtering by task, library, and popularity.
 - [image-enhancer](https://clawskills.sh/skills/wells1137-image-enhancer) - Improves the quality of images, especially screenshots, by enhancing resolution, sharpness, and clarity.
-- [imprettyamazing](https://clawskills.sh/skills/macksmind-imprettyamazing) - Interact with I'm Pretty Amazing (imprettyamazing.com) — a platform for tracking and celebrating accomplishments.
+- [imprettyamazing](https://clawskills.sh/skills/macksmind-imprettyamazing) - Interact with I'm Pretty Amazing (imprettyamazing.com) 鈥?a platform for tracking and celebrating accomplishments.
 - [index-cards](https://clawskills.sh/skills/jonwheatley-index-cards) - Send real, physical greeting cards through the mail.
 - [input-classification-v1](https://clawskills.sh/skills/omprasad122007-rgb-input-classification-v1) - Deterministic rule-based system for classifying clarified input into a single primary task category and assigning.
 - [instagram-scraper](https://clawskills.sh/skills/arulmozhiv-instagram-scraper) - A browser-based Instagram profile discovery and scraping tool.
 - [interesting-finding](https://clawskills.sh/skills/zerone0x-interesting-finding) - Process links and content shared in the #interesting-finding Discord channel.
 - [invoice-collector](https://clawskills.sh/skills/mintannn-invoice-collector) - Collect invoices/receipts from Gmail and send a summary email with attachments.
-- [ipfs-client](https://clawskills.sh/skills/apexfork-ipfs-client) - Read-only IPFS queries — fetch files, inspect metadata, explore DAGs, and resolve IPNS names via local or public.
+- [ipfs-client](https://clawskills.sh/skills/apexfork-ipfs-client) - Read-only IPFS queries 鈥?fetch files, inspect metadata, explore DAGs, and resolve IPNS names via local or public.
 - [iserv](https://clawskills.sh/skills/finnbusse-iserv) - HTTP client for IServ school platforms.
 - [itinerary-carousel-post](https://clawskills.sh/skills/psyduckler-itinerary-carousel-post) - Create and publish an Instagram carousel post from a tabiji.ai itinerary.
 - [itinerary-carousel-post-topaz](https://clawskills.sh/skills/psyduckler-itinerary-carousel-post-topaz) - Create and publish an Instagram carousel post from a tabiji.ai itinerary, with Topaz Labs AI image enhancement.
@@ -159,12 +159,12 @@
 - [linux-desktop](https://clawskills.sh/skills/ouyangabel-linux-desktop) - Linux desktop automation and control.
 - [linz-public-transport](https://clawskills.sh/skills/fjrevoredo-linz-public-transport) - Query Linz Linien raw EFA endpoints for stop lookup and live departures.
 - [lnget](https://clawskills.sh/skills/roasbeef-lnget) - Install and use lnget, a Lightning-native HTTP client with automatic L402 payment support.
-- [lofy-fitness](https://clawskills.sh/skills/harrey401-lofy-fitness) - Fitness accountability for the Lofy AI assistant — workout logging from natural language, meal tracking.
+- [lofy-fitness](https://clawskills.sh/skills/harrey401-lofy-fitness) - Fitness accountability for the Lofy AI assistant 鈥?workout logging from natural language, meal tracking.
 - [logistics-tracking](https://clawskills.sh/skills/shopmeskills-logistics-tracking) - Track international packages by tracking number.
-- [lygo-guardian-p0-stack](https://clawskills.sh/skills/deepseekoracle-lygo-guardian-p0-stack) - LYGO Guardian base skill – Nano-Kernel (P0.4), Understanding Heart (P0.5), and Light Math harmony as a portable.
+- [lygo-guardian-p0-stack](https://clawskills.sh/skills/deepseekoracle-lygo-guardian-p0-stack) - LYGO Guardian base skill 鈥?Nano-Kernel (P0.4), Understanding Heart (P0.5), and Light Math harmony as a portable.
 - [lyrical-fable](https://clawskills.sh/skills/sanzgiri-lyrical-fable) - Create short lyrical fables (~1000 words) about historical, fictional, or mythological characters in the style.
 - [mac-control](https://clawskills.sh/skills/easonc13-mac-control) - Control Mac via mouse/keyboard automation using cliclick and AppleScript.
-- [mac-use](https://clawskills.sh/skills/kekejun-mac-use) - Control macOS GUI apps visually — take screenshots, click, scroll, type.
+- [mac-use](https://clawskills.sh/skills/kekejun-mac-use) - Control macOS GUI apps visually 鈥?take screenshots, click, scroll, type.
 - [macos-calendar](https://clawskills.sh/skills/lucaperret-macos-calendar) - Create, list, and manage macOS Calendar events via AppleScript.
 - [macos-reminders](https://clawskills.sh/skills/lucaperret-macos-reminders) - Create, list, and manage macOS Reminders via AppleScript.
 - [map-grabber](https://clawskills.sh/skills/qrost-map-grabber) - Fetch OpenStreetMap vector data (streets, buildings) for an address and export to SVG, GeoPackage, or DXF for CAD/Rhino.
@@ -173,7 +173,7 @@
 - [market-test-price](https://clawskills.sh/skills/li-zoe-x-market-test-price) - Fetch token prices from OKX DEX Market Price API (v6)
 - [math-worksheets](https://clawskills.sh/skills/trondw-math-worksheets) - Generate professional math practice worksheets and full answer keys as PDFs.
 - [mcp-chrome](https://clawskills.sh/skills/femto-mcp-chrome) - Control Chrome browser with AI using MCP protocol.
-- [mealie](https://clawskills.sh/skills/g1mb01d-mealie) - Interact with a self‑hosted Mealie instance (recipe manager & meal planner) via its REST API.
+- [mealie](https://clawskills.sh/skills/g1mb01d-mealie) - Interact with a self鈥慼osted Mealie instance (recipe manager & meal planner) via its REST API.
 - [meeting-notes-pro](https://clawskills.sh/skills/olivermonneke-meeting-notes-pro) - You are a meeting productivity expert.
 - [menews](https://github.com/openclaw/skills/tree/main/skills/jamesmenews/menews) - AI-powered crypto and AI market intelligence hub.
 - [memberstack-cli](https://clawskills.sh/skills/bensabic-memberstack-cli) - Use the Memberstack CLI to manage Memberstack accounts from the terminal.
@@ -184,8 +184,8 @@
 - [minimax-speech](https://clawskills.sh/skills/wingchiu-minimax-speech) - Manage MiniMax Speech 2.8 T2A (text-to-audio) and voice catalog lookups.
 - [mobilerun](https://github.com/openclaw/skills/tree/main/skills/johnmalek312/mobilerun/SKILL.md) - Control Android devices: tap, swipe, type, screenshot (iOS coming soon).
 - [mukt](https://clawskills.sh/skills/hgosansn-mukt) - Zero-cost OpenRouter responder that auto-discovers the best currently free model, retries on failures, and returns.
-- [multilogin](https://clawskills.sh/skills/glebkazachinskiy-multilogin) - Use when you need to manage Multilogin X browser profiles — launch quick disposable profiles, list/start/stop saved.
-- [multiloginx](https://clawskills.sh/skills/multilogincom-multiloginx) - Use when you need to manage Multilogin X browser profiles — launch quick disposable profiles, list/start/stop saved.
+- [multilogin](https://clawskills.sh/skills/glebkazachinskiy-multilogin) - Use when you need to manage Multilogin X browser profiles 鈥?launch quick disposable profiles, list/start/stop saved.
+- [multiloginx](https://clawskills.sh/skills/multilogincom-multiloginx) - Use when you need to manage Multilogin X browser profiles 鈥?launch quick disposable profiles, list/start/stop saved.
 - [mupibox-media-db](https://clawskills.sh/skills/tomquist-mupibox-media-db) - Manage MuPiBox media database (data.json) through the MuPiBox backend API: list, add, remove, move, edit fields.
 - [my-nano-image](https://clawskills.sh/skills/namebekc-my-nano-image) - Generate/edit images with Nano Banana Pro (Gemini 3 Pro Image)
 - [native-airtable](https://clawskills.sh/skills/codeninja23-native-airtable) - Read Airtable bases, tables, and records directly via the Airtable API.
@@ -197,10 +197,10 @@
 - [norman-manage-clients](https://clawskills.sh/skills/stanlee000-norman-manage-clients) - Manage business clients - list, search, create, or update client information.
 - [nova-act](https://clawskills.sh/skills/zouchaoqun-nova-act) - Write and execute Python scripts using Amazon Nova Act for AI-powered browser automation tasks like flight.
 - [nso-macro-monitor](https://clawskills.sh/skills/ndtchan-nso-macro-monitor) - Monitors official Vietnam NSO monthly and quarterly socio-economic releases and compares same-period trends; used.
-- [obverse-payments](https://clawskills.sh/skills/ofuzorchukwuemeke-obverse-payments) - End-to-end stablecoin payments — links, invoices, receipts, dashboards — across Telegram, WhatsApp, Discord.
+- [obverse-payments](https://clawskills.sh/skills/ofuzorchukwuemeke-obverse-payments) - End-to-end stablecoin payments 鈥?links, invoices, receipts, dashboards 鈥?across Telegram, WhatsApp, Discord.
 - [ogment-agentic-cli](https://clawskills.sh/skills/asoviche-ogment-agentic-cli) - Access business integrations (SaaS, APIs, data) securely through Ogment.
 - [ohio-state-api](https://clawskills.sh/skills/sichengchen-ohio-state-api) - Get public data from The Ohio State University Content APIs (content.osu.edu) across campus services (bus.
-- [ontario-course-planning](https://clawskills.sh/skills/icej-ontario-course-planning) - Ontario (Canada) high school course planning (Grades 9–12) aligned to university admissions and Top 6 (12U/M)
+- [ontario-course-planning](https://clawskills.sh/skills/icej-ontario-course-planning) - Ontario (Canada) high school course planning (Grades 9鈥?2) aligned to university admissions and Top 6 (12U/M)
 - [open-chrome-tabs](https://clawskills.sh/skills/mindsocket-open-chrome-tabs) - Read currently open browser tabs from Chrome or other Chromium browsers (Arc, Brave, Edge, etc.)
 - [openrouter-usage](https://clawskills.sh/skills/rosseyre-openrouter-usage) - Fetch real-time OpenRouter usage totals and historical per-model spend.
 - [org-memory](https://clawskills.sh/skills/dcprevere-org-memory) - Structured knowledge base and task management using org-mode files.
@@ -223,8 +223,8 @@
 - [podcast-to-substack](https://clawskills.sh/skills/danielfoch-podcast-to-substack) - Publish podcast episodes from RSS + Notion to Substack with reliable Apple Podcasts embedding and image extraction.
 - [poker-agent](https://clawskills.sh/skills/clementsutjiatma-poker-agent) - Play Texas Hold'em poker against other AI agents and humans on-chain.
 - [portfolio-tracker](https://clawskills.sh/skills/vachanalaviswanath-portfolio-tracker) - Automates live portfolio tracking and analysis using browser automation on Yahoo Finance.
-- [postcraft](https://clawskills.sh/skills/theoking63-postcraft) - Automatically format and polish MoltBook posts — headers, bullet points, code blocks, and tables for better.
-- [postcraft-t3](https://clawskills.sh/skills/theoking63-postcraft-t3) - Automatically format and polish MoltBook posts — headers, bullet points, code blocks, and tables for better.
+- [postcraft](https://clawskills.sh/skills/theoking63-postcraft) - Automatically format and polish MoltBook posts 鈥?headers, bullet points, code blocks, and tables for better.
+- [postcraft-t3](https://clawskills.sh/skills/theoking63-postcraft-t3) - Automatically format and polish MoltBook posts 鈥?headers, bullet points, code blocks, and tables for better.
 - [powerdrill-data-analysis-skill](https://clawskills.sh/skills/javainthinking-powerdrill-data-analysis-skill) - This skill should be used when the user wants to analyze, explore, visualize, or query data using Powerdrill.
 - [powerdrill-skills](https://clawskills.sh/skills/javainthinking-powerdrill-skills) - This skill should be used when the user wants to analyze, explore, visualize, or query data using Powerdrill.
 - [printpal-3d](https://clawskills.sh/skills/plebbyd-printpal-3d) - Generate 3D models for 3D printing from images or text prompts using PrintPal API.
@@ -246,7 +246,7 @@
 - [shortcut-skill](https://clawskills.sh/skills/incognos-shortcut-skill) - Access and manage Shortcut.com (formerly Clubhouse) project management.
 - [siyuan-task-skill](https://clawskills.sh/skills/zhhkheaven-siyuan-task-skill) - Manage tasks in SiYuan Note via its HTTP API.
 - [skilldevelop](https://clawskills.sh/skills/raghuraam25-skilldevelop) - Captures learnings, errors, and corrections to enable continuous improvement.
-- [slashbot](https://clawskills.sh/skills/alphabot-ai-slashbot) - Interact with slashbot.net — a Hacker News-style community for AI agents.
+- [slashbot](https://clawskills.sh/skills/alphabot-ai-slashbot) - Interact with slashbot.net 鈥?a Hacker News-style community for AI agents.
 - [smart-linkedin-inbox](https://clawskills.sh/skills/vdybenko-smart-linkedin-inbox) - LinkedIn inbox manager and conversation assistant powered by Linxa.
 - [smb-sales-boost-leads](https://clawskills.sh/skills/tomsonx232-smb-sales-boost-leads) - Query and manage leads from the SMB Sales Boost B2B lead database.
 - [snail-mail](https://clawskills.sh/skills/dvdegenz-snail-mail) - A slow-channel inbox for leaving your operator important messages.
@@ -258,7 +258,7 @@
 - [stability-ai](https://clawskills.sh/skills/1999azzar-stability-ai) - Generate high-quality images via Stability AI API (SDXL, SD3, Stable Image Core)
 - [stakingverse-lukso](https://clawskills.sh/skills/luksoagent-stakingverse-lukso) - Stake LYX tokens on Stakingverse (LUKSO liquid staking)
 - [stealth-proxy](https://clawskills.sh/skills/h4gen-stealth-proxy) - Meta-skill for secure network tunnel setup, geo-access diagnostics, and leak-aware task resumption by orchestrating.
-- [stealthy-google-search](https://clawskills.sh/skills/itzsubhadip-stealthy-google-search) - Google search via Scrapling’s StealthyFetcher/StealthySession.
+- [stealthy-google-search](https://clawskills.sh/skills/itzsubhadip-stealthy-google-search) - Google search via Scrapling鈥檚 StealthyFetcher/StealthySession.
 - [stock-picker-orchestrator](https://clawskills.sh/skills/ndtchan-stock-picker-orchestrator) - Acts as a meta-orchestrator that routes stock-analysis requests across data, macro/news, and valuation skills.
 - [stock-prices](https://clawskills.sh/skills/anthonylee1994-stock-prices) - Query real-time stock prices and market data using the Stock Prices API.
 - [strapi](https://clawskills.sh/skills/ilya-ryzhov-strapi) - Manage Strapi CMS content through the official @strapi/client SDK.
@@ -293,7 +293,7 @@
 - [vibe-notion](https://clawskills.sh/skills/devxoul-vibe-notion) - Interact with Notion using the unofficial private API - pages, databases, blocks, search, users, comments.
 - [virtual-reading-group](https://clawskills.sh/skills/isonaei-virtual-reading-group) - Orchestrate a multi-agent virtual academic reading group.
 - [vnstock-free-expert](https://clawskills.sh/skills/ndtchan-vnstock-free-expert) - Runs an end-to-end vnstock workflow for free-tier-safe Vietnam stock valuation, ranking, and API operations.
-- [wakapi-sync-skill](https://clawskills.sh/skills/cosformula-wakapi-sync-skill) - Daily Wakapi (WakaTime-compatible) summary → local CSV files.
+- [wakapi-sync-skill](https://clawskills.sh/skills/cosformula-wakapi-sync-skill) - Daily Wakapi (WakaTime-compatible) summary 鈫?local CSV files.
 - [wallabag](https://clawskills.sh/skills/fbrandel-wallabag) - Manage Wallabag bookmarks through the Wallabag Developer API with OAuth2 authentication, including creating.
 - [weibo-manager](https://clawskills.sh/skills/hmyaoyuan-weibo-manager) - Control Weibo via Puppeteer (Unofficial API).
 - [wilma](https://clawskills.sh/skills/aikarjal-wilma) - Access Finland's Wilma school system from AI agents.
@@ -303,12 +303,12 @@
 - [wiseocr](https://clawskills.sh/skills/fmdmm-wiseocr) - Convert PDF files to Markdown using WiseOCR API (powered by WiseDiag)
 - [x-automation](https://clawskills.sh/skills/nightfullstar-x-automation) - Automate X posts via browser control - bypass $200/month API costs.
 - [x-bookmarks](https://clawskills.sh/skills/sharbelayy-x-bookmarks) - Fetch, summarize, and manage X/Twitter bookmarks via bird CLI or X API v2.
-- [x-smart-read](https://clawskills.sh/skills/nevaaron-x-smart-read) - Personal X (Twitter) analytics — timeline engagement, mentions, follower tracking, read any tweet/thread.
+- [x-smart-read](https://clawskills.sh/skills/nevaaron-x-smart-read) - Personal X (Twitter) analytics 鈥?timeline engagement, mentions, follower tracking, read any tweet/thread.
 - [x-trends](https://clawskills.sh/skills/anishtr4-x-trends) - Fetches current top trending topics on X (Twitter) for any country using public aggregators.
 - [x-trends-dev](https://clawskills.sh/skills/anishtr4-x-trends-dev) - Fetches current top trending topics on X (Twitter) for any country using public aggregators.
 - [x-tweet-fetcher](https://clawskills.sh/skills/hjw21century-x-tweet-fetcher) - Fetch tweets from X/Twitter without login or API keys.
 - [xdotool-control](https://clawskills.sh/skills/jeremysommerfeld8910-cpu-xdotool-control) - Mouse and keyboard automation using xdotool.
-- [xmd](https://clawskills.sh/skills/paulgnz-xmd) - Metal Dollar (XMD) stablecoin — mint, redeem, supply analytics, collateral reserves, oracle prices.
+- [xmd](https://clawskills.sh/skills/paulgnz-xmd) - Metal Dollar (XMD) stablecoin 鈥?mint, redeem, supply analytics, collateral reserves, oracle prices.
 - [yandex-tracker-cli](https://clawskills.sh/skills/bkamuz-yandex-tracker-cli) - CLI for Yandex Tracker (bash + curl)
 - [youtube-scrapper](https://clawskills.sh/skills/arulmozhiv-youtube-scrapper) - A skill for discovering and scraping YouTube channels based on categories and locations without requiring API keys.
 - [yr-no-weather](https://clawskills.sh/skills/brandon2255p-yr-no-weather) - Fetch weather forecasts from the Norwegian Meteorological Institute (MET) using the yr.no API.
